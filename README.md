@@ -22,3 +22,11 @@ To require code modules (like the readline-sync) add const readlineSync = requir
 Export a Class to make it accessible else where. Add module.exports = HumanPlayer; to the bottom of your file.
 
 Run your file with the command node <file name>. This is how you will play your game and test code along the way.
+
+
+Helpful Hints
+To require code modules (like the readline-sync) add const readlineSync = require('readline-sync'); to use the library. This works the same to require exported classes.
+
+Export a Class to make it accessible else where. Add module.exports = HumanPlayer; to the bottom of your file.
+
+Run your file with the command node <file name>. This is how you will play your game and test code along the way.
